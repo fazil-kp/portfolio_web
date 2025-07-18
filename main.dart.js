@@ -47749,7 +47749,7 @@ var $async$$0=A.F(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:o=q.a
 o.sm(0,!0)
 p=document.createElement("a")
-p.href="https://drive.google.com/uc?export=download&id=1qpe5YUCtZJLn9mr0sfNxCLbpT4LQ-Ufx"
+p.href="https://drive.google.com/uc?export=download&id=1OBnsRq_eEJjZqEhiAfiUYKTg6GZv3KLU"
 p.setAttribute("download","resume.pdf")
 p.click()
 s=2
